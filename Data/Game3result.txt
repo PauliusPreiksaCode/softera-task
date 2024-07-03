@@ -1,0 +1,12 @@
+﻿1 71
+2 75
+3 37
+4 57
+5 17
+6 16
+7 24
+8 33
+9 42
+10 0
+Maximum score category: 2
+Minimum score category: 6

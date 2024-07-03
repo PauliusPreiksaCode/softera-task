@@ -1,0 +1,12 @@
+﻿1 128
+2 35
+3 112
+4 0
+5 68
+6 0
+7 0
+8 46
+9 48
+10 65
+Maximum score category: 1
+Minimum score category: 2
